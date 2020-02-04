@@ -21,6 +21,5 @@ async function addDemoData(data) {
   });
 }
 module.exports = {
-  getDemoData: getDemoData,
-  addData: addData
+  getDemoData: getDemoData
 };
